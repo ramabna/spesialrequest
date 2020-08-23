@@ -160,7 +160,7 @@ date_default_timezone_set('Asia/Jakarta');
 include "funct3.php";
 echo colorss("yellow","Masukkan Token: ");
 $token = trim(fgets(STDIN));
-        echo colorss("yellow","\n¤▬▬▬▬▬ππ▬▬▬▬▬▬ GAS MANG ▬▬▬▬▬ππ▬▬▬▬▬▬¤");
+        echo colorss("yellow","\n¤▬▬▬▬▬ππ▬▬▬▬▬▬ GAS BOSS ▬▬▬▬▬ππ▬▬▬▬▬▬¤");
         echo "\n".colorss("green","👌🍱 Ambil Voucer");
         echo "\n".colorss("nevy","Intip Dulu  ");
         for($a=1;$a<=3;$a++)
